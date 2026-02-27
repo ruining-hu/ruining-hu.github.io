@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  description: "Ryan Hu's personal website. A place to share my thoughts, projects, and experiences."
+  site-url: https://ruining-hu.github.io # you must change this appropriately for RSS feeds to work properly
+  title: "Ryan Hu"
+  navbar:
+    background: light
+    right:
+      - href: blog.qmd
+        text: "Blog"
+      # - icon: github
+      #   href: https://github.com/
+      # - icon: linkedin
+      #   href: https://twitter.com
+format:
+  html:
+    theme: cosmos
+      # - custom.scss
+    css: styles.css
+
+
+

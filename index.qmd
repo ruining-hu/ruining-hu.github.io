@@ -1,0 +1,19 @@
+---
+title: "Ryan (Ruining) Hu 胡芮宁"
+image: profile.jpg
+about:
+  template: jolla
+  image-width: 10em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ruining-hu/
+    - icon: github
+      text: Github
+      href: https://github.com/ruining-hu
+
+---
+
+::: {style="max-width: 500px; margin: auto; text-indent: 0; text-align: left;"}
+Hey, I'm Ryan. I'm a 3rd year maths undergraduate at the [University of Cambridge](...). I have a broad interest. In my degree I mostly did pure maths and statistics. I'm also interested in ML and robotics. I post some stuff that I write here.
+:::
