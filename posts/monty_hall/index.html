@@ -377,6 +377,8 @@ if (outputEl) {{
 <p>Using the Bayes rule, we can expand the conditional probability: <span class="math display">\[1-  \mathbb P(Y = 3 \mid X = 1)\frac{\mathbb P(X = 1)}{\mathbb P(Y = 3)}\]</span></p>
 <p>Plugging in our values, this gives us: <span class="math display">\[1 - (1 - \rho)\frac{1/3}{1/3 + (1-\rho)/3} = \frac{1}{2 - \rho}\]</span></p>
 <p>This isn’t much effort actually! However, if one is not careful it is very easy to come up with an incorrect solution; most of the times because they fail to realize that the host’s action is not fully specified. I will not include one such example here for the sake of brevity.</p>
+<p>Some may argue that without any information we should just assume the host is equally likely to choose door 2 and door 3 when the car is behind door 1. It does make a point. However, without a informed prior it is hard to draw such a conclusion (by a informed prior I mean you studied how humans bias on this problem in general). It very well could be that the host like the number 3 so much that whenever they can open it they will. At the end of the day, human is complicated, often with implicit biases that we don’t even know ourselves. But this is another topic.</p>
+<p>The good news is, no matter how the host is biased, switching is still better! You just won’t know how much it is better by in that specific case.</p>
 </section>
 <section id="summary" class="level2">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
