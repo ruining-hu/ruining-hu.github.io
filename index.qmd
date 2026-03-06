@@ -15,5 +15,5 @@ about:
 ---
 
 ::: {style="max-width: 500px; margin: auto; text-indent: 0; text-align: left;"}
-Hey, I'm Ryan. I'm a 3rd year maths undergraduate at the [University of Cambridge](...). I have a broad interest. In my degree I mostly did pure maths and statistics. I'm also interested in ML and robotics. I post some stuff that I write here.
+Hey, I'm Ryan. I'm a 3rd-year mathematics undergraduate at the [University of Cambridge](https://www.maths.cam.ac.uk/). My academic focus is primarily on pure maths and statistics, but I also have a strong interest in machine learning and robotics. This site is a collection of my writing, projects, and thoughts.
 :::
